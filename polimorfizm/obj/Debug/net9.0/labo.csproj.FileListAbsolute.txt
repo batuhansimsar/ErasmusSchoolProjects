@@ -1,0 +1,14 @@
+C:\Users\batuhan\Desktop\labo\bin\Debug\net9.0\labo.exe
+C:\Users\batuhan\Desktop\labo\bin\Debug\net9.0\labo.deps.json
+C:\Users\batuhan\Desktop\labo\bin\Debug\net9.0\labo.runtimeconfig.json
+C:\Users\batuhan\Desktop\labo\bin\Debug\net9.0\labo.dll
+C:\Users\batuhan\Desktop\labo\bin\Debug\net9.0\labo.pdb
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\labo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\labo.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\labo.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\labo.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\labo.dll
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\refint\labo.dll
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\labo.pdb
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\labo.genruntimeconfig.cache
+C:\Users\batuhan\Desktop\labo\obj\Debug\net9.0\ref\labo.dll
