@@ -1,0 +1,14 @@
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\bin\Debug\net9.0\UserValidationApp.exe
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\bin\Debug\net9.0\UserValidationApp.deps.json
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\bin\Debug\net9.0\UserValidationApp.runtimeconfig.json
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\bin\Debug\net9.0\UserValidationApp.dll
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\bin\Debug\net9.0\UserValidationApp.pdb
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\UserValidationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\UserValidationApp.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\UserValidationApp.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\UserValidationApp.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\UserValidationApp.dll
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\refint\UserValidationApp.dll
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\UserValidationApp.pdb
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\UserValidationApp.genruntimeconfig.cache
+C:\Users\batuhan\Desktop\Homework\UserValidationApp\obj\Debug\net9.0\ref\UserValidationApp.dll
