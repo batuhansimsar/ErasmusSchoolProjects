@@ -1,0 +1,14 @@
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\bin\Debug\net9.0\ZooManagement.exe
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\bin\Debug\net9.0\ZooManagement.deps.json
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\bin\Debug\net9.0\ZooManagement.runtimeconfig.json
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\bin\Debug\net9.0\ZooManagement.dll
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\bin\Debug\net9.0\ZooManagement.pdb
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ZooManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ZooManagement.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ZooManagement.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ZooManagement.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ZooManagement.dll
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\refint\ZooManagement.dll
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ZooManagement.pdb
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ZooManagement.genruntimeconfig.cache
+C:\Users\batuhan\Desktop\advanced3\ZooManagement\obj\Debug\net9.0\ref\ZooManagement.dll
