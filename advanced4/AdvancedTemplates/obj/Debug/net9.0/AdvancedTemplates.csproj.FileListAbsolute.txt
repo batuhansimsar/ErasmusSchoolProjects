@@ -1,0 +1,14 @@
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\bin\Debug\net9.0\AdvancedTemplates.exe
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\bin\Debug\net9.0\AdvancedTemplates.deps.json
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\bin\Debug\net9.0\AdvancedTemplates.runtimeconfig.json
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\bin\Debug\net9.0\AdvancedTemplates.dll
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\bin\Debug\net9.0\AdvancedTemplates.pdb
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\AdvancedTemplates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\AdvancedTemplates.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\AdvancedTemplates.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\AdvancedTemplates.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\AdvancedTemplates.dll
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\refint\AdvancedTemplates.dll
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\AdvancedTemplates.pdb
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\AdvancedTemplates.genruntimeconfig.cache
+C:\Users\batuhan\Desktop\advanced4\AdvancedTemplates\obj\Debug\net9.0\ref\AdvancedTemplates.dll
