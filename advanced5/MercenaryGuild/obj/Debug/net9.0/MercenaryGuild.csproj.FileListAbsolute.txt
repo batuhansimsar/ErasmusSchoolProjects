@@ -1,0 +1,11 @@
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\bin\Debug\net9.0\MercenaryGuild.deps.json
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\bin\Debug\net9.0\MercenaryGuild.dll
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\bin\Debug\net9.0\MercenaryGuild.pdb
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\MercenaryGuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\MercenaryGuild.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\MercenaryGuild.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\MercenaryGuild.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\MercenaryGuild.dll
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\refint\MercenaryGuild.dll
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\MercenaryGuild.pdb
+C:\Users\batuhan\Desktop\advanced5\MercenaryGuild\obj\Debug\net9.0\ref\MercenaryGuild.dll
