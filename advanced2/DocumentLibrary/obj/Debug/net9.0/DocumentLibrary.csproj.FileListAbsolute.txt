@@ -1,0 +1,11 @@
+C:\Users\batuhan\Desktop\2\DocumentLibrary\bin\Debug\net9.0\DocumentLibrary.deps.json
+C:\Users\batuhan\Desktop\2\DocumentLibrary\bin\Debug\net9.0\DocumentLibrary.dll
+C:\Users\batuhan\Desktop\2\DocumentLibrary\bin\Debug\net9.0\DocumentLibrary.pdb
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\DocumentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\DocumentLibrary.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\DocumentLibrary.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\DocumentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\DocumentLibrary.dll
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\refint\DocumentLibrary.dll
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\DocumentLibrary.pdb
+C:\Users\batuhan\Desktop\2\DocumentLibrary\obj\Debug\net9.0\ref\DocumentLibrary.dll
